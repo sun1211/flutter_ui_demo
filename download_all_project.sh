@@ -20,3 +20,4 @@ git clone git@github.com:sun1211/commerce_app.git
 git clone git@github.com:sun1211/travel_demo_app.git
 git clone git@github.com:sun1211/plant_shop.git
 git clone git@github.com:sun1211/food_delivery_app.git
+git clone git@github.com:sun1211/food_infor_app.git

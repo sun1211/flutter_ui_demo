@@ -134,3 +134,7 @@ flutter run -d chrome
 ## Food Delivery Application
 ![](https://raw.githubusercontent.com/sun1211/food_delivery_app/master/screenShot/Screenshot_1614939633.png)
 ![](https://raw.githubusercontent.com/sun1211/food_delivery_app/master/screenShot/Screenshot_1614947113.png)
+
+## Food Tasty Application
+![](https://raw.githubusercontent.com/sun1211/food_infor_app/master/screenShot/Screenshot_1614953517.png)
+![](https://raw.githubusercontent.com/sun1211/food_infor_app/master/screenShot/Screenshot_1614956361.png)
