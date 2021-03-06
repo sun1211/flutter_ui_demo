@@ -34,6 +34,9 @@ Ex: flutter run -d chrome
 ```bash
 flutter run -d chrome
 ```
+## Universe App
+![](https://raw.githubusercontent.com/sun1211/universe_app/master/screenShot/Screenshot_1614960607.png)
+![](https://raw.githubusercontent.com/sun1211/universe_app/master/screenShot/Screenshot_1614998525.png)
 
 ## Login Application
 ![](https://raw.githubusercontent.com/sun1211/login_app/master/screenShot/Screenshot_1612970868.png)

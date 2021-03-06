@@ -1,4 +1,5 @@
 #!/bin/bash
+git clone git@github.com:sun1211/universe_app.git
 git clone git@github.com:sun1211/login_app.git
 git clone git@github.com:sun1211/food_app.git
 git clone git@github.com:sun1211/welcome_app.git
