@@ -1,4 +1,5 @@
 #!/bin/bash
+git clone git@github.com:sun1211/chair_app.git
 git clone git@github.com:sun1211/shoe_shop_app.git
 git clone git@github.com:sun1211/covid_19_infor.git
 git clone git@github.com:sun1211/covid_dashboard_app.git
