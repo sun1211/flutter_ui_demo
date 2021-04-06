@@ -35,6 +35,9 @@ Ex: flutter run -d chrome
 flutter run -d chrome
 ```
 
+## Recipe Application
+![](https://raw.githubusercontent.com/sun1211/recipe_app/master/screenShot/Screenshot_1617723206.png)
+![](https://raw.githubusercontent.com/sun1211/recipe_app/master/screenShot/Screenshot_1617724621.png)
 ## Shoe Application
 ![](https://raw.githubusercontent.com/sun1211/shoe_app/master/screenShot/Screenshot_1617548244.png)
 ![](https://raw.githubusercontent.com/sun1211/shoe_app/master/screenShot/Screenshot_1617550006.png)
