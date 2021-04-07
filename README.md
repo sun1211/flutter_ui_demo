@@ -35,6 +35,13 @@ Ex: flutter run -d chrome
 flutter run -d chrome
 ```
 
+## Fashion Application
+![](https://raw.githubusercontent.com/sun1211/fashion_app/master/screenShot/Screenshot_1617787733.png)
+![](https://raw.githubusercontent.com/sun1211/fashion_app/master/screenShot/Screenshot_1617802994.png)
+![](https://raw.githubusercontent.com/sun1211/fashion_app/master/screenShot/Screenshot_1617803552.png)
+![](https://raw.githubusercontent.com/sun1211/fashion_app/master/screenShot/Screenshot_1617806507.png)
+![](https://raw.githubusercontent.com/sun1211/fashion_app/master/screenShot/Screenshot_1617807049.png)
+
 ## Recipe Application
 ![](https://raw.githubusercontent.com/sun1211/recipe_app/master/screenShot/Screenshot_1617723206.png)
 ![](https://raw.githubusercontent.com/sun1211/recipe_app/master/screenShot/Screenshot_1617724621.png)
